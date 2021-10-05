@@ -1,4 +1,4 @@
-let n = document.createElement("div")
+let n = document.getElementById("div")
 
 
 n.style.backgroundColor = "#0000ff";
