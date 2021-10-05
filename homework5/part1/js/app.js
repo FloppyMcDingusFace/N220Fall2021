@@ -1,4 +1,4 @@
-let n = document.createElement("div")
+let n = document.getElementById("n");
 let wid = 100;
 let hei = 100;
 
