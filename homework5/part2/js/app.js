@@ -27,4 +27,3 @@ function black () {
     document.body.appendChild(n);
     console.log(n);
 }
-
